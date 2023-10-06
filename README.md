@@ -22,14 +22,15 @@ Embora não seja exigida a programação completa do robô neste desafio, é imp
 
 Este é um código Python que simula um robô sumô, com funcionalidades como ativar a rampa, mover-se, atualizar a orientação e detectar ataques laterais.
 
-Funcionalidades
-Ativar e desativar a rampa.
-Movimentação em qualquer direção.
-Atualização da orientação.
-Sensores para detectar a proximidade de um oponente.
-Detecção de ataques laterais.
-Manter a direção alvo.
-Para mais detalhes, consulte o código-fonte. No arquivo [Código do Robô](code.ipynb)
+**Funcionalidades**
+**Ativar e desativar a rampa.**
+**Movimentação em qualquer direção.**
+**Atualização da orientação.**
+**Sensores para detectar a proximidade de um oponente.**
+**Detecção de ataques laterais.**
+**Manter a direção alvo.**
+
+Para mais detalhes, consulte o código-fonte. No arquivo [Código do Robô](codigo_do_robo.ipynb)
 
 
 ## Como Contribuir
