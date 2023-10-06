@@ -1,0 +1,41 @@
+sensor linha esq;
+sensor linha dir;
+sensor som esq;
+sensor som dir;
+motor esq;
+motor dir;
+
+loop(){
+
+	while(dentro da borda){
+		if(ultrassom vazio) buscaSlow();
+		if(ultrassom direito apitar) viraDireita();
+		if(utrassom esquerdo apitar) viraEsquerda();
+		if(sensores alinhados apitando) ataca();
+	}
+
+//ao sair do while significa que esta na borda, precisa dar meia volta
+para();
+tras();
+viraEsquerda();
+}
+
+buscaSlow(){ //estrategia slow search
+motores_anda;
+motores_para;
+}
+viraDireita(){	vira o robo para a direita
+motores_viraParaDireita;
+}
+viraEsquerda(){	//vira o robo para a esquerda
+motores_viraParaEsquerda;
+}
+para(){	//para o robo
+motores_para;
+}
+tras(){	//da um passo para tras
+motores_tras;
+}
+ataque(){	//ataca
+motores_anda;
+}
