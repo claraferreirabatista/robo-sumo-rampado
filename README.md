@@ -29,7 +29,7 @@ Atualização da orientação.
 Sensores para detectar a proximidade de um oponente.
 Detecção de ataques laterais.
 Manter a direção alvo.
-Para mais detalhes, consulte o código-fonte. No arquivo [Texto do Link](code.ipynb)
+Para mais detalhes, consulte o código-fonte. No arquivo [Código do Robô](code.ipynb)
 
 
 ## Como Contribuir
