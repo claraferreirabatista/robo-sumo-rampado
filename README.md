@@ -18,11 +18,19 @@ Embora não seja exigida a programação completa do robô neste desafio, é imp
 
 2. **Com base em qual característica eu poderia elaborar uma programação para este robô?** - Identifique as características ou sensores que seu robô usará para tomar decisões durante a competição. Por exemplo, ele pode usar sensores infravermelhos para detectar a proximidade do adversário e ajustar sua direção em conformidade.
 
-## Recursos Adicionais
+## Implementação
 
-Este repositório fornecerá recursos adicionais, como exemplos de código, tutoriais, informações sobre componentes eletrônicos e dicas para o desenvolvimento de robôs sumô de sucesso.
+Este é um código Python que simula um robô sumô, com funcionalidades como ativar a rampa, mover-se, atualizar a orientação e detectar ataques laterais.
 
-Participe do Desafio Autônomos e explore o mundo emocionante da robótica autônoma!
+Funcionalidades
+Ativar e desativar a rampa.
+Movimentação em qualquer direção.
+Atualização da orientação.
+Sensores para detectar a proximidade de um oponente.
+Detecção de ataques laterais.
+Manter a direção alvo.
+Para mais detalhes, consulte o código-fonte. No arquivo [Texto do Link](code.ipynb)
+
 
 ## Como Contribuir
 
@@ -39,12 +47,7 @@ Este repositório é distribuído sob a [licença MIT](LICENSE). Consulte o arqu
 ```bash
 git clone https://github.com/claraferreirabatista/robo-sumo-rampado.git
 ```
-
-2. Explore os recursos disponíveis na pasta `docs/` para aprender mais sobre robótica autônoma, sensores e programação.
-
-3. Experimente os exemplos de código na pasta `src/` para começar a desenvolver programas para seu robô sumô.
-
-4. Contribua com seu conhecimento e recursos para a comunidade enviando pull requests.
+2. Contribua com seu conhecimento e recursos para a comunidade enviando pull requests.
 
 ## Contato
 
